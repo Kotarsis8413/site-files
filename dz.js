@@ -5,7 +5,6 @@ function setdz(pass) {
         dz += 'Что-то: \n';
         dz += 'Что-то: \n';
         dz += 'Что-то: \n';
-        dz += 'Абоба\n';
 
         console.log(dz);
 
